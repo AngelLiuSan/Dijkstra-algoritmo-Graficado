@@ -1,0 +1,10 @@
+A
+P
+D
+J
+E
+
+
+
+
+print("\n",Grafo)
